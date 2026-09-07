@@ -101,4 +101,4 @@ Desmond Terungwa Vershima
 
 Cybersecurity | Security Engineering | SOC
 
-GitHub: "@desmond-hash" (https://github.com/desmondsec-commit)
+GitHub: "@desmondsec-commit" (https://github.com/desmondsec-commit)
